@@ -39,7 +39,7 @@ The insights are presented through interactive visualizations and a video presen
 - **Python**: Data analysis and visualization  
 - **Pandas**: Data cleaning and transformation  
 - **Matplotlib & Seaborn**: Visualizations  
-- **NumPy**: Statistical analysis  
+- **NumPy & scipy**: Statistical analysis  
 - **Jupyter Notebook**: Development environment  
 - **LinkedIn Presentation**: Stakeholder-focused delivery  
 
