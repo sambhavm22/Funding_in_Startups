@@ -67,17 +67,13 @@ This project includes a variety of visualizations, such as:
 ## 🚀 **Setup Instructions**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/funding-in-startups.git
+   git clone https://github.com/sambhavm22/funding-in-startups.git
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook analysis.ipynb
    
-4. Run the notebook cells sequentially to reproduce results.
+3. Run the notebook cells sequentially to reproduce results.
 
 ---
 
