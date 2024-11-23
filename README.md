@@ -80,9 +80,12 @@ This project includes a variety of visualizations, such as:
    
 4. Run the notebook cells sequentially to reproduce results.
 
+---
+
    📬 Contact
 If you have questions or would like to collaborate, feel free to reach out!
 
-Email: sambhavm22@gmail.com
-LinkedIn: https://linkedin.com/in/sambhavm22
+**Email**: sambhavm22@gmail.com or 
+
+**LinkedIn**: https://linkedin.com/in/sambhavm22
 
