@@ -139,7 +139,7 @@ Key findings include:
 - **Top Funding Rounds**: The most funded stages are Venture and Seed funding.  
 - **Market Trends**: Biotechnology and Software sectors dominate funding but have different growth dynamics.  
 - **Equity-to-Debt Ratio**: Higher ratios indicate markets relying more on equity-based funding, signaling potential growth sectors.  
-- **Seasonality**: Funding tends to spike in Q1 and Q3, revealing investor behaviors tied to fiscal cycles.  
+- **Seasonality**: Funding tends to spike in Q1 and Q4, revealing investor behaviors tied to fiscal cycles.  
 
 ---
 
@@ -156,11 +156,7 @@ This project includes a variety of visualizations, such as:
 ## 🚀 **Setup Instructions**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/funding-in-startups.git
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+   git clone https://github.com/sambhavm22/funding-in-startups.git
 Open the Jupyter Notebook:
 bash
 Copy code
