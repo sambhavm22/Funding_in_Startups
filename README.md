@@ -67,11 +67,11 @@ This project includes a variety of visualizations, such as:
 ## 🚀 **Setup Instructions**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/sambhavm22/funding-in-startups.git
+   git clone https://github.com/sambhavm22/Funding_in_Startups.git
 
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook analysis.ipynb
+   https://github.com/sambhavm22/Funding_in_Startups/blob/main/research.ipynb
    
 3. Run the notebook cells sequentially to reproduce results.
 
