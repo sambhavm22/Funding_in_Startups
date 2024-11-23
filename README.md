@@ -85,7 +85,7 @@ This project includes a variety of visualizations, such as:
    📬 Contact
 If you have questions or would like to collaborate, feel free to reach out!
 
-**Email**: sambhavm22@gmail.com or 
+**Email**: sambhavm22@gmail.com
 
 **LinkedIn**: https://linkedin.com/in/sambhavm22
 
