@@ -75,15 +75,7 @@ This project includes a variety of visualizations, such as:
    
 3. Run the notebook cells sequentially to reproduce results.
 
----
-
-## 
-Here is the same content written in Markdown format for your README.md file:
-
-markdown
-Copy code
-# 🚀 Funding in Startups: A Comprehensive Analysis  
-
+--- 
 
 🔮 **Future Scope**  
 - **Adding real-time data integration via APIs.**
